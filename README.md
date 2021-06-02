@@ -3,14 +3,16 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-dantzinger-34328a71/)
 
 ### About Me:
-I am a Data Scientist with a passion for simplifying complex information and delivering data-centric solutions with clarity. I have been doing analytical work for 7+ years across numerous industries.
+- Data Scientist with a passion for simplifying complex information and delivering data-centric solutions with clarity.
+- Working in analytics for 7+ years across numerous industries.
+- Enjoy working with cross-functional teams and helping companies develop their internal analytics pipelines. 
 
 ### Industry Experience:
-:computer: IT
-:chart_with_upwards_trend: Digital Marketing
-:gift: CPG
-:airplane: DoD (PACAF)
-:mortar_board: Academia
+- :computer: IT
+- :chart_with_upwards_trend: Digital Marketing
+- :gift: CPG
+- :airplane: DoD (PACAF)
+- :mortar_board: Academia
 
 
 ### Primary Tools:
