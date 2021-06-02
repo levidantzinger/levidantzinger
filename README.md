@@ -1,4 +1,4 @@
-# Hi! I'm Levi Dantzinger!
+# Hi! :wave: I'm Levi Dantzinger!
 ### Looking for Data Scientist and Business Intelligence positions in Austin, TX beginning ~ November 2021!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levi-dantzinger-34328a71/)
 
